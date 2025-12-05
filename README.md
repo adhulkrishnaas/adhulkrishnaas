@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adhul Krishna A S</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate Software developer </h3>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍💻 All of my projects are available at [adhul.vercel.app](adhul.vercel.app)
